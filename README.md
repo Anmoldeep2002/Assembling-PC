@@ -144,9 +144,62 @@ STEP 10 (CONNECTING HARD DRIVE CABLES): <br/>
 <p align="center">Here, we connected and plugged the SATA cable from the hard drive to the motherboard. All we had to do was bring the red cable inside the case and carefully plug it into the appropriate socket.</p>
 
 
+<hr width="100%" size="2">
+
+<br />
+
+<p align="center"> 
+STEP 11 (INSTALLING POWER SUPPLY UNIT): <br/>
+<img src="https://i.imgur.com/1t36STj.png" height="70%" width="70%"/> </p>
 
 
+<p align="center">We proceeded to insert and install the power supply unit. All we had to do was place the supply unit into the case and secure it with the right screws using the screwdriver. After that, we had to connect the power connector for the supply unit to the motherboard, as seen in the second picture.</p>
 
 
+<hr width="100%" size="2">
 
+<br />
+
+<p align="center"> 
+STEP 12 (CONNECTING OPTICAL DRIVE POWER CABLE): <br/>
+<img src="https://i.imgur.com/kiH5LRF.png" height="40%" width="40%"/> </p>
+
+
+<p align="center">Here, we connected the optical drive's power cable directly to the power supply unit. We did not have to connect it to the motherboard, but rather to the supply unit. Without this cable, the indicated component would not function. All we had to do was carefully attach it to the correct socket.</p>
+
+
+<hr width="100%" size="2">
+
+<br />
+
+<p align="center"> 
+STEP 13 (CONNECTING HARD DRIVE POWER CABLE): <br/>
+<img src="https://i.imgur.com/Q8gsQHl.png" height="40%" width="40%"/> </p>
+
+
+<p align="center">Here, we connected the power cable from the supply unit directly to the hard disc drive, as shown in the image above. All we had to do was gently insert the power connector into the correct socket.</p>
+
+
+<hr width="100%" size="2">
+
+<br />
+
+<p align="center"> 
+STEP 14 (CONNECTING FLOPPY DISK POWER CABLE): <br/>
+<img src="https://i.imgur.com/ioZj2sh.png" height="40%" width="40%"/> </p>
+
+
+<p align="center">We then connected the last remaining cable, which was the floppy drive's power cable. Once again, the cable came from the supply unit, and all we had to do was carefully attach it to the correct socket shown in the picture above.</p>
+
+
+<hr width="100%" size="2">
+
+<br />
+
+<p align="center"> 
+STEP 15 (CLOSING COMPUTER SIDE CASE): <br/>
+<img src="https://i.imgur.com/0hMIBqZ.png" height="75%" width="75%"/> </p>
+
+
+<p align="center">This was the final step, and all we needed to do was close the case from the side, as shown in the second picture. On the first image, you can see that we were successful in building a computer, with all of the components and wires properly installed. To close the case, all we had to do was slide it and secure it with proper screws from the back using the screwdriver.</p>
 
